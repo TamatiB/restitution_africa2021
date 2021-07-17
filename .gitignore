@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data
+scrape_crawl/Benin_Bronzes/data
+scrape_crawl/Egypt/data
+scrape_crawl/Tendaguru/data
